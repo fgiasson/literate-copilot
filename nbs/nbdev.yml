@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "literate-copilot"
+  site-url: "https://fgiasson.github.io/literate-copilot"
+  description: "Project example showing the synergy between Literate Programming and LLMs (Copilot)"
+  repo-branch: main
+  repo-url: "https://github.com/fgiasson/literate-copilot"
